@@ -40,6 +40,3 @@ I drafted two professional emails: one requesting an assignment extension and an
 ##  Task 5 – Cybercrime Awareness
 I studied phishing as a form of cybercrime and created a case study explaining how such attacks occur. I also prepared a prevention checklist with safety tips and reporting methods to promote awareness among students.
 
----
-
-## 📂 Repository Structure
