@@ -2,7 +2,7 @@
 
 ##  Student Details
 Name: Drishti Pandey  
-Registration Number: 25BOE10138
+Registration Number: 25BOE1013
 Branch: Bioengineering
 Year: 1st Year  
 
